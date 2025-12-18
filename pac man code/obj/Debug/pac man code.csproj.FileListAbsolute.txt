@@ -1,0 +1,10 @@
+D:\garlic bread\game pac man\pac man code\pac man code\bin\Debug\pac man code.exe.config
+D:\garlic bread\game pac man\pac man code\pac man code\bin\Debug\pac man code.exe
+D:\garlic bread\game pac man\pac man code\pac man code\bin\Debug\pac man code.pdb
+D:\garlic bread\game pac man\pac man code\pac man code\obj\Debug\pac man code.csproj.AssemblyReference.cache
+D:\garlic bread\game pac man\pac man code\pac man code\obj\Debug\pac_man_code.Form1.resources
+D:\garlic bread\game pac man\pac man code\pac man code\obj\Debug\pac_man_code.Properties.Resources.resources
+D:\garlic bread\game pac man\pac man code\pac man code\obj\Debug\pac man code.csproj.GenerateResource.cache
+D:\garlic bread\game pac man\pac man code\pac man code\obj\Debug\pac man code.csproj.CoreCompileInputs.cache
+D:\garlic bread\game pac man\pac man code\pac man code\obj\Debug\pac man code.exe
+D:\garlic bread\game pac man\pac man code\pac man code\obj\Debug\pac man code.pdb
